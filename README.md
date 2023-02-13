@@ -1,7 +1,6 @@
 <div align="center">
 <h1>CV Wuilmer Bolívar</h1>
 <img src="https://user-images.githubusercontent.com/12962887/201484876-75290af9-ccd6-4f6d-be96-6a8fb4f20c4b.png" alt="CV Wuilmer Bolivar" height="200" widdth="330" />
-<a href="https://wbolivarser.wordpress.com/">CV Wuilmer Bolívar</a>
 </div>
 
 ## Acerca de
